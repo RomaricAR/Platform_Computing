@@ -1,0 +1,66 @@
+/* CSS styles for the About Me page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #222831;
+}
+
+header {
+    background-color: #222831 ;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #222831; /* Changed background color */
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #30475E;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #30475E;
+    border: 1px solid #30475E;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+h2 {
+    color: #30475E;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Added to center the image */
+    margin: 0 auto; /* Added to center the image */
+    border: 1px solid #ccc; /* Added border */
+}
+
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    margin-right: 20px; /* Add margin between images */
+}
