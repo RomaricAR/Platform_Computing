@@ -25,6 +25,3 @@ The following **bonus** features are implemented:
 
 - [X] Applies different font(s). (0.5 pt)
 - [X] Applies border and margins. (0.5 pt)
-- [X] DESCRIBE ANY OTHER FEATURES HERE.
-
-\
