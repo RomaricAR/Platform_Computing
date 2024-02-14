@@ -1,8 +1,14 @@
 # About Me
 
-Provide an overview of yourself and your projects here.
+Hello! My name is Romaric and I'm passionate about iOS app development. This GitHub repository serves as a platform for me to share my projects, experiences, and thoughts related to iOS programming.
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+## Projects Overview
+
+### One Priority App
+The One Priority App is a productivity tool designed to help users prioritize their tasks effectively. With a simple and intuitive interface, users can list their tasks and focus on what matters most.
+
+### HealthVision App
+The HealthVision App is a health and wellness application aimed at helping users track their fitness goals, monitor their nutrition, and stay motivated to lead a healthy lifestyle.
 
 ## Features
 
