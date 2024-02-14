@@ -5,14 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
     <link rel="stylesheet" href="styling.css">
+    <style>
+        .project-titles {
+            display:flex;
+            justify-content:space-evenly;
+        }
+    </style>
 </head>
 <body>
     <header>
         <h1>About Me Page</h1>
+        <img src="me.jpeg" alt="Your Picture" style="width: 200px; height: auto;">
     </header>
-    <nav>
-        <a href="https://github.com/RomaricAR/Platform_Computing">Visit my GitHub</a>
-    </nav>
     <main>
         <section>
             <h2>About Me</h2>
@@ -22,19 +26,29 @@
         </section>
         <section>
             <h2>My Projects</h2>
-            <div class="project">
-                <div class="image-wrapper">
-                    <img src="Habits.png" alt="Image 1" style="width: 200px; height: auto;">
+            <div class="project-titles">
+                <h3 style="text-align: left;">1. One Priority App</h3>
+                <h3>2. HealthVision App</h3>
+            </div>
+            <div class="row">
+                <div class="column">
+                    <img src="Habits.png" alt="Image 1" style="width: 150px; height: auto;">
                 </div>
-                <div class="image-wrapper">
-                    <img src="TodoList.png" alt="Image 2" style="width: 200px; height: auto;">
+                <div class="column">
+                    <img src="TodoList.png" alt="Image 2" style="width: 150px; height: auto;">
+                </div>
+                <div class="column2">
+                    <img src="HealthVision.jpeg" alt="Image 2" style="width: 150px; height: auto;">
                 </div>
             </div>
-            <!-- Add more project sections as needed -->
         </section>
+        <nav style="text-align: left;">
+            <a style="margin-left: 0%; color: #dddd;" href="https://github.com/RomaricAR/Platform_Computing">Link to my GitHub</a>
+        </nav>
+        
     </main>
     <footer>
-        <p>&copy; 2024 MyWebsite.com | All rights reserved.</p>
+        <p style="margin-left: 20px; color: #dddd;">&copy; 2024 MyWebsite.com | All rights reserved.</p>
     </footer>
 </body>
 </html>

@@ -9,7 +9,7 @@ body {
 
 header {
     background-color: #222831 ;
-    color: #fff;
+    color: #DDDDDD;
     text-align: center;
     padding: 20px;
 }
@@ -31,13 +31,16 @@ main {
 }
 
 section {
-    background-color: #30475E;
-    border: 1px solid #30475E;
+    background-color: #DDDDDD;
+    border: 1px solid #222831;
     margin-bottom: 20px;
     padding: 20px;
 }
 
 h2 {
+    color: #30475E;
+}
+h3 {
     color: #30475E;
 }
 
@@ -52,15 +55,20 @@ p {
 img {
     max-width: 100%;
     height: auto;
-    display: block; /* Added to center the image */
-    margin: 0 auto; /* Added to center the image */
-    border: 1px solid #ccc; /* Added border */
+    display: block; 
+    margin: 0 auto; 
+    border: 1px solid #DDDDDD;
 }
+.column {
+    float: left;
+    width: 15%;
+    padding: 1px;
+  }
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
-.image-container {
-    display: flex;
-}
 
-.image-container img {
-    margin-right: 20px; /* Add margin between images */
-}
