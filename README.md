@@ -1,27 +1,33 @@
-# About Me
+# Metric Tracker
 
-Hello! My name is Romaric and I'm passionate about iOS app development. This GitHub repository serves as a platform for me to share my projects, experiences, and thoughts related to iOS programming.
+PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-## Projects Overview
-
-### One Priority App
-The One Priority App is a productivity tool designed to help users prioritize their tasks effectively. With a simple and intuitive interface, users can list their tasks and focus on what matters most.
-
-### HealthVision App
-The HealthVision App is a health and wellness application aimed at helping users track their fitness goals, monitor their nutrition, and stay motivated to lead a healthy lifestyle.
+Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 ## Features
 
 The following **required** features are completed:
 
-- [X] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pt)
-- [X] Uses a mix of headers, paragraphs, and div's. (3pts)
-- [X] Includes at least 3 paragraphs. (3pts)
-- [X] Includes at least one image. (2pts)
-- [X] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
-- [X] Includes a link that directs to your GitHub account (can be main account or specifically to your Platform_Computing Repo). (3pts)
+- [ ] Organize Github project for Assignment 2 (2 pt)
+- [ ] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
+- [ ] Set up Selenium (2 pt)
+- [ ] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
+- [ ] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
 
 The following **bonus** features are implemented:
 
-- [X] Applies different font(s). (0.5 pt)
-- [X] Applies border and margins. (0.5 pt)
+- [ ] Saves metrics into csv file (1 pt)
+- [ ] Monitors at least 4 metrics (1 pt)
+- [ ] DESCRIBE ANY OTHER FEATURES HERE.
+
+## Screenshot and/or Video Walkthrough
+
+<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+
+
+## Notes:
+PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
+<ul>
+  <li>**Example in bold**</li>
+  <li>*Example in italics*</li>
+</ul>
