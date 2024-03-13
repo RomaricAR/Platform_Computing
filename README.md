@@ -21,8 +21,7 @@ The following **bonus** features are implemented:
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
-
-<img src="[https://imgur.com/gallery/4rAXx5x](https://github.com/RomaricAR/Platform_Computing/blob/main/Assignment_2_User_Interactions%20/Images/metric_tracker_output.png)" title='Metric Tracker Output' width='' alt='Metric Tracker Output' />
+![Metric Tracker Output](metric_tracker_output.png)
 
 
 ## Notes:
