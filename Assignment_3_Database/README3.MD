@@ -1,6 +1,6 @@
 # Metric Tracker with Database
 
-Time spent: 6 hours spent in total
+Time spent: 6 hours total
 
 ## Features
 The following **required** features are completed:
