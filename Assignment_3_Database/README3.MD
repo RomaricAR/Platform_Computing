@@ -21,8 +21,8 @@ them via user (2 pt).
 
 ![Mystery](Images/murder.png)
 ![MongoDB](Images/MongoDB.png)
-![Firebase](firebase.png)
-![Retrieve Data](Images/retrieveData.png.png)
+![Firebase](Images/firebase.png)
+![Retrieve Data](Images/retrieveData.png)
 
 
 
