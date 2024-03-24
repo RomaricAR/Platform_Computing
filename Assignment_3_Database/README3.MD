@@ -1,6 +1,6 @@
 # Metric Tracker with Database
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: 4 hours spent in total
 ## Features
 The following **required** features are completed:
 - [x] Organize Github projects for Assignment 3 (2 pts)
