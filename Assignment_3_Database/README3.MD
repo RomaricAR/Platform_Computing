@@ -17,3 +17,12 @@ The following **bonus** features are implemented:
 - [x] Create separate Tables (SQL) or Documents (NoSQL) for each metric and relate
 them via user (2 pt).
 
+## Images
+
+![Mystery](Images/murder.png)
+![MongoDB](Images/MongoDB.png)
+![Firebase](firebase.png)
+![Retrieve Data](Images/retrieveData.png.png)
+
+
+
